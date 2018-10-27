@@ -1,0 +1,8 @@
+export const UI_CHANGE_STYLE = "UI_CHANGE_STYLE";
+
+export const UI_CHANGE_TITLE = "UI_CHANGE_TITLE";
+
+export const UI_CHANGE_TABBAR = "UI_CHANGE_TABBAR";
+
+export const UI_TOGGLE_HEADER_BACK = "UI_TOGGLE_HEADER_BACK";
+
